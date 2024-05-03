@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native<br>👯 I’m looking to collaborate on open-source projects, libraries, or new frameworks in the React Native ecosystem.<br>🤝 I’m looking for help with optimizing my npm package to make it more efficient and user-friendly, as well as seeking assistance in creating a new package and contributing to other open-source projects.<br>🌱 I’m currently learning about performance optimization strategies in React Native, focusing on reducing app size, improving rendering speed, and implementing code-splitting techniques for better user experience.<br>💬 Ask me about: how to create own NPM package, Offline downloads in React Native apps, stores uploads securely, or enhancing UI/UX design for a better user experience.<br>⚡ Fun fact: When I'm not coding in React Native, you can often find me experimenting with new recipes in the kitchen—turns out, coding isn't the only place where precision and creativity come together!
-
+#### 🔭 I’m currently working on JavaScript, React Native
+#### 👯 I’m looking to collaborate on open-source projects, libraries, or new frameworks in the React Native ecosystem.
+#### 🤝 I’m looking for help with optimizing my npm package to make it more efficient and user-friendly, as well as seeking assistance in creating a new package and contributing to other open-source projects.
+#### 🌱 I’m currently learning about performance optimization strategies in React Native, focusing on reducing app size, improving rendering speed, and implementing code-splitting techniques for better user experience.
+#### 💬 Ask me about: how to create own NPM package, Offline downloads in React Native apps, stores uploads securely, or enhancing UI/UX design for a better user experience.
+#### ⚡ Fun fact: When I'm not coding in React Native, you can often find me experimenting with new recipes in the kitchen—turns out, coding isn't the only place where precision and creativity come together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/imamitkmr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amitaquarius13) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20926816/amit-kumar) 
